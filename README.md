@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **munnapandit2002@gmail.com**
 
-- ⚡ Fun fact **I thin i am funny.**
+- ⚡ Fun fact **I think i am funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
