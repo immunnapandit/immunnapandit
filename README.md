@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/immunnapandit/immunnapandit](https://github.com/immunnapandit/immunnapandit)
 
-- 📝 I regularly write articles on [https://medium.com/@immunnapandit](https://medium.com/@immunnapandit)
+- 📝 I regularly write articles on [https://medium.com/@immunnapandit](https://medium.com/@techwithmunna)
 
 - 💬 Ask me about **ReactJs**
 
