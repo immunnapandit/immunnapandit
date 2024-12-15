@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=immunnapandit" alt="immunnapandit" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/immunnapandit/immunnapandit](https://github.com/immunnapandit/immunnapandit)
+- 👨‍💻 All of my projects are available at [https://github.com/immunnapandit/immunnapandit](https://github.com/immunnapandit)
 
 - 📝 I regularly write articles on [https://medium.com/@immunnapandit](https://medium.com/@techwithmunna)
 
